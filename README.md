@@ -1,4 +1,4 @@
-sarcastic
+sarcastic.js
 =========
 
-sarcastic.js is a JavaScript library to extend and replace core functionality with more human readable and humorous methods.
+A JavaScript library to extend and replace core functionality with more human readable and humorous methods.
