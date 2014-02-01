@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="sarcastic.js"></script>
+	<script>
+		// --- Examples ---
+		
+		$(function(){
+		
+			// .yell
+			var whatIwantToSay = $("p.brick");
+			whatIwantToSay.text(whatIwantToSay.text().yell());
+			
+		});
+		
+	</script>
+</head>
+<body>
+	<p class="brick">Why are we yelling?</p>
+</body>
